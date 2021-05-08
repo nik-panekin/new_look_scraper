@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+img/
+api.json
+screenshot.png
+new_look.csv
+activate.bat
